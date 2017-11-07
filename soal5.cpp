@@ -8,4 +8,7 @@ int main(){
 	cin>>tinggi;
 	cout<<"Masukkan Beran Badan (kg)	: ";
 	cin>>berat;
+	if(berat<tinggi/2.5){
+		cout<<"Hasil	: Kurus"<<endl;
+	}
 }
