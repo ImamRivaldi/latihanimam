@@ -10,4 +10,10 @@ int main(){
 	
 	cout<<"Masukkan Nilai Y = ";
 	cin>>y;
+	
+	if(x>y){
+		z=y-x;
+		cout<<abs(z)<<endl;
+		cout<<"Hasil Positif";
+	}
 }
