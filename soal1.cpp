@@ -24,6 +24,6 @@ int main(){
 	else if(z==0){
 		z=z*(-1);
 		cout<<abs(x-y)<<endl;
-		cout<<"Hasil Bukan Positif";
+		cout<<"Hasil = 0 (Nilai Mutlak)";
 	}
 }
