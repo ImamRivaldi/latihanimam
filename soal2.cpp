@@ -22,5 +22,7 @@ int main(){
 		cout<<"+++++Menghitung Luas Segitiga+++++\n";
 		cout<<"Masukkan Alas	: ";
 		cin>>alas;
+		cout<<"Masukkan Tinggi	: ";
+		cin>>tinggi;
 	}
 }
