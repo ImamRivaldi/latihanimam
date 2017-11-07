@@ -27,4 +27,7 @@ int main(){
 		luas=0.5*alas*tinggi;
 		cout<<"Hasil		: "<<luas<<endl;
 	}
+	else{
+		cout<<"Harap Pilih Jenis Bidang yang Benar!!!";
+	}
 }
