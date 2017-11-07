@@ -7,4 +7,6 @@ int main(){
 	int gajipokok,jamkerja,gajitotal,pajak;
 	cout<<"Jumlah Gaji Pegawai	: ";
 	cin>>gajipokok;
+	cout<<"Jam Kerja		: ";
+	cin>>jamkerja;
 }
