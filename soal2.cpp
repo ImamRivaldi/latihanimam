@@ -8,4 +8,9 @@ int main(){
 	
 	cout<<"Pilih Jenis Bidang (P/S): ";
 	cin >> bidang;
+	
+	if(bidang=='P'||bidang=='p'){
+		cout<<"Masukkan Panjang : ";
+		cin>>panjang;
+	}
 }
