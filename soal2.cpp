@@ -10,9 +10,12 @@ int main(){
 	cin >> bidang;
 	
 	if(bidang=='P'||bidang=='p'){
+		cout<<"+++++Menghitung Luas Persegi Panjang+++++\n";
 		cout<<"Masukkan Panjang	: ";
 		cin>>panjang;
 		cout<<"Masukkan Lebar		: ";
 		cin>>lebar;
+		luas=panjang*lebar;
+		cout<<"Hasil			: "<<luas<<endl;
 	}
 }
