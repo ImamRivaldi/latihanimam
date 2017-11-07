@@ -18,4 +18,9 @@ int main(){
 		luas=panjang*lebar;
 		cout<<"Hasil			: "<<luas<<endl;
 	}
+	else if(bidang=='S'||bidang=='s'){
+		cout<<"+++++Menghitung Luas Segitiga+++++\n";
+		cout<<"Masukkan Alas	: ";
+		cin>>alas;
+	}
 }
