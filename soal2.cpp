@@ -10,7 +10,9 @@ int main(){
 	cin >> bidang;
 	
 	if(bidang=='P'||bidang=='p'){
-		cout<<"Masukkan Panjang : ";
+		cout<<"Masukkan Panjang	: ";
 		cin>>panjang;
+		cout<<"Masukkan Lebar		: ";
+		cin>>lebar;
 	}
 }
