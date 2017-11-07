@@ -24,5 +24,7 @@ int main(){
 		cin>>alas;
 		cout<<"Masukkan Tinggi	: ";
 		cin>>tinggi;
+		luas=0.5*alas*tinggi;
+		cout<<"Hasil		: "<<luas<<endl;
 	}
 }
